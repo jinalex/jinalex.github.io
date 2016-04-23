@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Alex and I can count by twos and tie my shoes.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More information to come...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jinalex.123@gmail.com](mailto:jinalex.123@gmail.com)
