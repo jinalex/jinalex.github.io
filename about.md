@@ -20,7 +20,7 @@ Right now Alex is working at [Xberts](https://xberts.com) for the summer doing b
 ### What can I do here?
 Humour Alex and look at some of the stuff he posts. Alex sometimes has a hard time completing things he started but you can help by clicking the button below.
 
-<div class="button"><a href="https://goo.gl/q9NMzd">Tell Alex to finish {{site.project-verb}} {{site.current-project}}</a></div>
+<div class="button"><a href="https://goo.gl/2nMV3t">Tell Alex to finish {{site.project-verb}} {{site.current-project}}</a></div>
 
 <!--http://127.0.0.1:4000/about/#nudge-->
 
