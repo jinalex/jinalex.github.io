@@ -3,9 +3,9 @@
 #
 
 # Variables
-project-verb: coding
-current-project: that thing
-current-reading: Book
+project-verb: building
+current-project: that analytics MVP
+current-reading: Viral Loop
 
 # Name of your site (displayed in the header)
 name: Alex Jin
