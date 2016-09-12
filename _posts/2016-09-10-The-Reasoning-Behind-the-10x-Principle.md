@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changing the Reference Point
+title: The Reasoning Behind the 10x Principle
 categories:
 - Thoughts
 - Cansbridge
