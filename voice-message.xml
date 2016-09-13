@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Response><Say voice="man">Thanks for the call. Alex is currently on exchange in the Netherlands based in the city of Rotterdam.</Say><Pause length="1"/>At this time you can reach him via email at his Dutch number +31 622884322. Alternatively you may email him at jin dot alex at queens u dot see eh.<Say voice="man"></Say></Response>
+<Response><Say voice="man">Thanks for the call. Alex is currently on exchange in the Netherlands based in the city of Rotterdam.</Say><Pause length="1"/>At this time you may reach him at his Dutch number +31 622884322. Alternatively you may email him at jin dot alex at queens u dot see eh.<Say voice="man"></Say></Response>
