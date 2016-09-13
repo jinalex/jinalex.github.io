@@ -6,7 +6,7 @@
     <Pause length="1"/>
     <Say voice="alice">Country code + 3 1. 6 2 2. 8 8 4. 3 2 2.</Say>
     <Pause length="1"/>
-    <Say voice="alice">Alternatively you may email him at. j i n dot alex at queens u dot see eh.</Say>
+    <Say voice="alice">Alternatively you may email him at. j i n dot alex at queens u dot C A.</Say>
     <Pause length="1"/>
     <Say voice="alice">Goodbye for now.</Say>
 </Response>
