@@ -12,10 +12,11 @@ Hi, I'm Alex. I grew up in Mississauga, Canada and now I spend my time learning 
 Rotterdam
 
 ### What does Alex do?
-Right now Alex is studying at the Rotterdam School of Management for the fall semester. For the rest of the year Alex is a student at Queen's University.
+Right now Alex is studying at the Rotterdam School of Management for the fall semester. During the rest of the year Alex is a student at Queen's University.
 
 ### How can I contact Alex?
 <a href="mailto:jinalex.123@gmail.com" target="_blank">Send him mail</a>
+<br>
 <a href="http://doodle.com/alexjin" target="_blank">Schedule a call</a>
 
 ### What can I do here?
