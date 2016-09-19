@@ -9,13 +9,14 @@ Hi, I'm Alex. I grew up in Mississauga, Canada and now I spend my time learning 
 ## FAQs
 
 ### Where's Alex?
-Beijing
+Rotterdam
 
 ### What does Alex do?
-Right now Alex is working at [Xberts](https://xberts.com) for the summer doing business development and marketing. For the rest of the year Alex is a student at Queen's University.
+Right now Alex is studying at the Rotterdam School of Management for the fall semester. For the rest of the year Alex is a student at Queen's University.
 
 ### How can I contact Alex?
-[Send him mail](mailto:jinalex.123@gmail.com)
+<a href="mailto:jinalex.123@gmail.com" target="_blank">Send him mail</a>
+<a href="http://doodle.com/alexjin" target="_blank">Schedule a call</a>
 
 ### What can I do here?
 Humour Alex and look at some of the stuff he posts. Alex sometimes has a hard time completing things he started but you can help by clicking the button below.
