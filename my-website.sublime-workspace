@@ -1,0 +1,988 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Str",
+				"StringComp"
+			],
+			[
+				"appl",
+				"appleSelected"
+			],
+			[
+				"error",
+				"errorPopUp"
+			],
+			[
+				"count",
+				"countField"
+			],
+			[
+				"WP",
+				"WPM_FICTION"
+			],
+			[
+				"WPM",
+				"WPM_NONFICTION"
+			],
+			[
+				"fi",
+				"fiction"
+			],
+			[
+				"rand",
+				"randIndex"
+			],
+			[
+				"num",
+				"numOfBathrooms"
+			],
+			[
+				"Buil",
+				"BuildingException"
+			],
+			[
+				"prof",
+				"profitOrder"
+			],
+			[
+				"rent",
+				"rentOrder"
+			],
+			[
+				"U",
+				"UNIT_TAX"
+			],
+			[
+				"ren",
+				"rentPremium"
+			],
+			[
+				"F",
+				"FLAT_RENT"
+			],
+			[
+				"El",
+				"ELEVATOR_RENT"
+			],
+			[
+				"pr",
+				"premiumRent"
+			],
+			[
+				"lo",
+				"locationRating"
+			],
+			[
+				"extra",
+				"extraTax"
+			],
+			[
+				"E",
+				"ELEVATOR_TAX"
+			],
+			[
+				"Of",
+				"OFFICE_RENT"
+			],
+			[
+				"O",
+				"OFFICE_RENT"
+			],
+			[
+				"new",
+				"newBathrooms"
+			],
+			[
+				"BAT",
+				"BATH_TAX"
+			],
+			[
+				"nu",
+				"numOfBedrooms"
+			],
+			[
+				"ca",
+				"calcRent"
+			],
+			[
+				"BED",
+				"BED_TAX"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"numOf",
+				"numOfBathrooms"
+			],
+			[
+				"write",
+				"writeWaitingPercent"
+			],
+			[
+				"wait",
+				"waitTime"
+			],
+			[
+				"console",
+				"log\tconsole"
+			],
+			[
+				"componen",
+				"componentWillReceiveProps\tLife Cycle Method"
+			],
+			[
+				"component",
+				"Component"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"function",
+				"function"
+			],
+			[
+				"prop",
+				"propName"
+			],
+			[
+				"dv",
+				"div"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"fun",
+				"function\tReact.PropTypes.func"
+			],
+			[
+				"My",
+				"MyComponent"
+			],
+			[
+				"Recip",
+				"RecipeForm"
+			],
+			[
+				"pref",
+				"preferredTimeOfDay"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"owner",
+				"ownerString"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"pre",
+				"preferredTimeOfDay"
+			],
+			[
+				"large",
+				"largeDogsOwned"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"small",
+				"smallDogsOwned"
+			],
+			[
+				"Tim",
+				"preferredTimeOfDay"
+			],
+			[
+				"sma",
+				"smallDogsOwned"
+			],
+			[
+				"lar",
+				"largeDogsOwned"
+			],
+			[
+				"cou",
+				"courseTitle"
+			],
+			[
+				"query",
+				"queryDesc"
+			],
+			[
+				"sear",
+				"searchTerm"
+			],
+			[
+				"get",
+				"getCourses"
+			],
+			[
+				"search",
+				"searchText"
+			],
+			[
+				"cour",
+				"courseCode"
+			],
+			[
+				"s",
+				"String"
+			],
+			[
+				"curr",
+				"currentHour"
+			],
+			[
+				"Coll",
+				"COLLECTION"
+			],
+			[
+				"play",
+				"playAudio"
+			],
+			[
+				"list",
+				"listBST"
+			],
+			[
+				"to",
+				"toList"
+			],
+			[
+				"av",
+				"avgTree"
+			],
+			[
+				"se",
+				"sep1"
+			],
+			[
+				"same",
+				"sameSums"
+			],
+			[
+				"sa",
+				"sameSums"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"dele",
+				"deleteNode"
+			],
+			[
+				"me",
+				"menu_choice"
+			],
+			[
+				"inpu",
+				"inputNeeded"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"node",
+				"nodeBefore"
+			],
+			[
+				"inser",
+				"insertValue"
+			],
+			[
+				"ptr",
+				"ptr"
+			],
+			[
+				"linke",
+				"linkedList"
+			],
+			[
+				"reduc",
+				"reduceList"
+			],
+			[
+				"ma",
+				"maxIdx"
+			],
+			[
+				"min",
+				"minNum"
+			],
+			[
+				"max",
+				"maxNum"
+			],
+			[
+				"sum",
+				"sumOfList"
+			],
+			[
+				"a",
+				"aList"
+			],
+			[
+				"number",
+				"numberElves"
+			],
+			[
+				"char",
+				"charArray"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"binary",
+				"binaryColor"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Ant.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 328.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"org",
+				"Set Syntax: orgmode"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				" lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: Java"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeLinter:",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jinalex/Development/Personal Website/jinalex.github.io"
+	],
+	"file_history":
+	[
+		"/home/jinalex/Development/Learning/pwa-weather/step-02/index.html",
+		"/home/jinalex/Development/Personal Website/jinalex.github.io/LICENSE.txt",
+		"/home/jinalex/Development/Learning/CISC124/ExamPractice/Book.java",
+		"/home/jinalex/Development/Learning/CISC124/ExamPractice/Recording.java",
+		"/home/jinalex/Development/Learning/CISC124/ExamPractice/LibraryItem.java",
+		"/home/jinalex/Development/Learning/CISC124/ExamPractice/FruitStand/FruitStand.java",
+		"/home/jinalex/Development/Learning/CISC124/ExamPractice/Testing.java",
+		"/home/jinalex/Development/Learning/CISC124/ExamplesForPosting (1)/ActionExamples/ActionDemoFinished.java",
+		"/home/jinalex/Development/Learning/CISC124/ExamPractice/exam2014.java",
+		"/home/jinalex/Development/Learning/CISC124/ExamPractice/LibraryItemTest.java",
+		"/home/jinalex/Development/Learning/CISC124/Assignment5/SwingAssignment.java",
+		"/home/jinalex/Development/Learning/CISC124/Notes/CollectionsIterators.org",
+		"/home/jinalex/Development/Learning/CISC124/Assignment5/MultiplicationGame.java",
+		"/home/jinalex/Development/Learning/CISC124/MultiplicationGame.java",
+		"/home/jinalex/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/jinalex/Development/Learning/CISC124/Assignment 4/MultiUnitBuilding.java",
+		"/home/jinalex/Development/Learning/CISC124/Assignment 4/OfficeBuilding.java",
+		"/home/jinalex/Development/Learning/CISC124/Assignment 4/ApartmentBuilding.java",
+		"/home/jinalex/Development/Learning/CISC124/Assignment 4/BuildingException.java",
+		"/home/jinalex/Development/Learning/CISC124/Assignment 4/RealEstate.java",
+		"/home/jinalex/Development/Learning/CISC124/Assignment 4/House.java",
+		"/home/jinalex/Development/Learning/CISC124/Quiz 2 Practice/AnotherJava.java",
+		"/home/jinalex/Development/Learning/CISC124/Quiz 2 Practice/Lentil.java",
+		"/home/jinalex/Development/Learning/CISC124/2014Quiz3Q2.java",
+		"/home/jinalex/Development/Learning/CISC124/Quiz 2 Practice/2015Quiz3Q3.java",
+		"/home/jinalex/Development/Learning/CISC124/Quiz 2 Practice/Bean.java",
+		"/home/jinalex/Development/Learning/CISC124/Quiz 2 Practice/Vegetable.java",
+		"/home/jinalex/Development/Learning/CISC124/Quiz 2 Practice/SomeLayout.java",
+		"/home/jinalex/Development/Learning/CISC124/Assignment 4/Building.java",
+		"/home/jinalex/Development/Learning/CISC124/Vegetable.java",
+		"/home/jinalex/Downloads/FlowLayoutDemo.jnlp",
+		"/home/jinalex/Development/The_STACK.txt",
+		"/home/jinalex/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jinalex/Development/Learning/Node Training/Node Essential Training/Ch03/03_04/start/timers.js",
+		"/home/jinalex/Development/Learning/Node Training/Node Essential Training/Ch03/03_02/start/app.js",
+		"/home/jinalex/Development/Learning/Node Training/Node Essential Training/Ch03/03_03/start/ask.js",
+		"/home/jinalex/Development/Learning/Node Training/Node Essential Training/Ch03/03_01/start/global.js",
+		"/home/jinalex/Development/Learning/gruntworkflows/builds/development/js/script.js",
+		"/home/jinalex/Development/Learning/gruntworkflows/builds/development/index.html",
+		"/home/jinalex/.config/sublime-text-3/Packages/JSX/README.md",
+		"/home/jinalex/Development/Learning/gruntworkflows/builds/development/css/style.css",
+		"/home/jinalex/Development/Learning/gruntworkflows/gruntfile.js",
+		"/home/jinalex/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jinalex/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/jinalex/Development/Learning/gruntworkflows/.gitignore",
+		"/home/jinalex/Development/Learning/gruntworkflows/package.json",
+		"/home/jinalex/Development/Learning/gruntworkflows/components/sass/_modules.scss",
+		"/home/jinalex/Dropbox/Code/Ex_Files_LReact_js_2016/Exercise Files/Ch04/04_05/start/css/style.css",
+		"/home/jinalex/Dropbox/Code/Ex_Files_LReact_js_2016/Exercise Files/Ch05/05_02/start/index.html",
+		"/home/jinalex/Dropbox/Code/Ex_Files_LReact_js_2016/Exercise Files/Ch04/04_05/start/js/Note.js",
+		"/home/jinalex/Dropbox/Code/Ex_Files_LReact_js_2016/Exercise Files/Ch04/04_02/start/js/Note.js",
+		"/home/jinalex/Dropbox/Code/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_06/start/js/Note.js",
+		"/home/jinalex/Dropbox/Code/Ex_Files_LReact_js_2016/Exercise Files/Ch05/05_05/start/js/Note.js",
+		"/home/jinalex/Dropbox/Code/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_05/start/index.html",
+		"/home/jinalex/Dropbox/Code/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_04/start/js/Note.js",
+		"/home/jinalex/Dropbox/Code/Ex_Files_LReact_js_2016/Exercise Files/Ch03/03_02/start/index.html",
+		"/home/jinalex/Dropbox/School/Second Sem/CISC 124/Assignment 2/Assn2Output.txt",
+		"/home/jinalex/Dropbox/School/Second Sem/CISC 124/Assignment 2/DogWalkingClub.java",
+		"/home/jinalex/Dropbox/School/Second Sem/CISC 124/Assignment 2/DogOwner.java",
+		"/home/jinalex/Development/Sgeideal/client/app/main/bootstrap.min.css",
+		"/home/jinalex/Development/Sgeideal/client/app/main/main.service.js",
+		"/home/jinalex/Development/Sgeideal/client/app/about/about.html",
+		"/home/jinalex/Development/Sgeideal/server/api/courses/courses.model.js",
+		"/home/jinalex/Development/Sgeideal/server/api/sections/sections.model.js",
+		"/home/jinalex/Development/Sgeideal/server/api/subjects/subjects.model.js",
+		"/home/jinalex/Development/Sgeideal/server/api/courses/index.js",
+		"/home/jinalex/Development/Sgeideal/client/bower_components/ng-responsive-calendar/dist/js/calendar-tpls.js",
+		"/home/jinalex/Development/Sgeideal/client/bower_components/ng-responsive-calendar/dist/css/calendar.css",
+		"/home/jinalex/Development/Sgeideal/client/bower_components/ng-responsive-calendar/bower.json",
+		"/home/jinalex/Development/Sgeideal/client/components/calendar/dist/js/calendar-tpls.min.js",
+		"/home/jinalex/Development/Sgeideal/bower.json",
+		"/home/jinalex/Development/Sgeideal/client/bower_components/ng-responsive-calendar/dist/js/calendar-tpls.min.js",
+		"/home/jinalex/Development/Sgeideal/client/app/main/main.less",
+		"/home/jinalex/Development/Sgeideal/client/app/main/calendar.controller.js",
+		"/home/jinalex/Development/Sgeideal/client/bower_components/ng-responsive-calendar/demo/index.html",
+		"/home/jinalex/Development/Sgeideal/client/app/main/main.html",
+		"/home/jinalex/Development/Sgeideal/client/app/app.js",
+		"/home/jinalex/Development/Sgeideal/client/bower_components/ng-responsive-calendar/README.md",
+		"/home/jinalex/Development/Sgeideal/server/api/courses/courses.controller.js",
+		"/home/jinalex/Development/Sgeideal/client/components/navbar/navbar.controller.js",
+		"/home/jinalex/Development/Sgeideal/client/app/about/about.controller.js",
+		"/home/jinalex/Development/Sgeideal/server/config/environment/development.js",
+		"/home/jinalex/Development/Sgeideal/server/routes.js",
+		"/home/jinalex/Development/Sgeideal/server/api/subjects/index.js",
+		"/home/jinalex/Development/Sgeideal/server/api/sections/index.js",
+		"/home/jinalex/Development/Sgeideal/server/api/sections/sections.controller.js",
+		"/home/jinalex/Development/Sgeideal/server/api/sections/sections.spec.js",
+		"/home/jinalex/Development/Sgeideal/server/api/textbooks/textbooks.spec.js",
+		"/home/jinalex/Development/Sgeideal/server/api/textbooks/textbooks.controller.js",
+		"/home/jinalex/Development/Sgeideal/server/api/thing/thing.controller.js",
+		"/home/jinalex/Development/Sgeideal/server/api/textbooks/textbooks.model.js",
+		"/home/jinalex/Development/Sgeideal/server/api/courses/courses.spec.js",
+		"/home/jinalex/Development/CourseCalendar/server/api/courses/index.js",
+		"/home/jinalex/Development/CourseCalendar/server/qcumber-data/minify.sh",
+		"/home/jinalex/Development/CourseCalendar/server/qcumber-data/import.sh",
+		"/home/jinalex/Development/CourseCalendar/client/app/about/about.js",
+		"/home/jinalex/Development/CourseCalendar/client/app/about/about.controller.spec.js",
+		"/home/jinalex/Development/CourseCalendar/.yo-rc.json",
+		"/home/jinalex/Development/CourseCalendar/npm-debug.log",
+		"/home/jinalex/Development/CourseCalendar/test/index.html",
+		"/home/jinalex/Development/CourseCalendar/package.json",
+		"/home/jinalex/Development/CourseCalendar/qcumber-data/.travis.yml",
+		"/home/jinalex/Development/jinalex.github.io/resume.html",
+		"/home/jinalex/Development/CISC121/Unit 3/recursionPractice.py",
+		"/home/jinalex/Development/CISC121/Unit 3/recursionFunc.py",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/views/api/index.jade",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/app.js",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/controllers/api.js",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/node_modules/express/lib/router/route.js",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/config/secrets.js",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/views/account/signup.jade",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/views/account/login.jade",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/views/partials/header.jade",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/views/partials/footer.jade",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/package.json",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/config/passport.js",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/views/home.jade",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/views/api/lastfm.jade",
+		"/home/jinalex/Development/CourseSwitcherFront/boilerplate/setup.js",
+		"/home/jinalex/Development/CourseSwitcherFront/web/config/secrets.js",
+		"/home/jinalex/.cache/.fr-3fS0kR/laktek-really-simple-color-picker-9876e3b/demo.html",
+		"/home/jinalex/Development/jinalex.github.io/colorPicker.css",
+		"/home/jinalex/Development/Project-Euler/euler23.py",
+		"/home/jinalex/Development/Project-Euler/euler24.py",
+		"/home/jinalex/Development/jinalex.github.io/synesthesia.html",
+		"/home/jinalex/.cache/.fr-5KBedg/configurable/configurable.html",
+		"/home/jinalex/Development/jinalex.github.io/jquery.colorPicker.min.js",
+		"/home/jinalex/Development/Learning/permutateRepeat"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 82.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"update",
+			"/images",
+			"images",
+			"System",
+			"drawCircle",
+			"picPanel",
+			"Jframe",
+			"entry",
+			"ActionListener",
+			"addaction",
+			"action",
+			"JOption",
+			"Book",
+			"hidden",
+			"answerFi",
+			"answer",
+			"answerField",
+			"hiddenAnswer",
+			"joption",
+			"x",
+			"Thing",
+			"__________________",
+			"SwingLayout",
+			"BuildingException",
+			"Java.lang.Math",
+			"java.lang",
+			"Comparable",
+			"private",
+			"protected",
+			"MultiBuilding",
+			"sortByRent",
+			"getId",
+			"o",
+			"O",
+			"o",
+			"O",
+			"o",
+			"O",
+			"o",
+			"public",
+			"premiumRent",
+			"toString",
+			"TAX",
+			"BED",
+			"Bed",
+			"BED",
+			"BED_TAX",
+			"building",
+			"n",
+			"greeting",
+			"user",
+			"greeting",
+			"class",
+			"dist:",
+			"dest",
+			"paragraph",
+			".\"",
+			".",
+			"components",
+			"                dest: 'builds/development/js/script.js'\n",
+			"development",
+			"remove",
+			"onRemove",
+			"this.largeDogsOwned",
+			"favicon",
+			"console",
+			"localhost",
+			">\n",
+			"ng",
+			"sleep",
+			"getCourses.query(this.value)\n      //   .then(function(result) {\n      //       if (result) {\n      //           $scope.courses = result;\n      //           console.log(result);\n      //       } else {\n      //           console.log(\"Oh shit, something went wrong.\");\n      //       }\n      //     }\n      //       , function(error) {\n      //           // promise rejected, could log the error with: console.log('error', error);\n      //           console.log(error);\n      //       })\n      // } ",
+			"    // document.getElementById(\"searchBox\").addEventListener('input', function (evt) {\n    //   getCourses.query(this.value)\n    //     .then(function(result) {\n    //       $scope.courses = result.data;\n    //       //console.log(result.data);\n    //     });\n    // });",
+			"Thing",
+			"hour < ",
+			"$index",
+			"18",
+			"index",
+			"currenthour",
+			"currentHour",
+			"createDate",
+			"createDateObjects",
+			"24",
+			"22",
+			"weekview",
+			"$index",
+			"12",
+			"title",
+			"formatWeekTitle",
+			"title",
+			"ng-binding",
+			"date",
+			"7",
+			"firstday",
+			"firstdayin",
+			"first",
+			"firstday",
+			"ctrl",
+			"ctrl.range",
+			"ctrl.range.startTime",
+			"day",
+			"sun",
+			"sunday",
+			"hour",
+			"startTime",
+			"start",
+			"allday-",
+			"allday",
+			"reload",
+			"calendarmode",
+			"week",
+			"http://blog.iz",
+			"calendar/calendar",
+			"css/calendar/calendar",
+			"ngSanitize",
+			"angular",
+			"bootstrap",
+			"imagemin",
+			"calendar",
+			"angular",
+			"Courses",
+			"Sections",
+			"Subjects",
+			"Textbooks",
+			"Subject",
+			"things",
+			"Subject",
+			"subjects",
+			"things"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"./images",
+			"java.lang.Math",
+			"MultiUnitBuilding",
+			"rentPremium",
+			"OfficeBuilding",
+			"ApartmentBuilding",
+			"House",
+			"Course",
+			"courses",
+			"sections",
+			"subjects",
+			"textbooks",
+			"Textbook",
+			"textbooks",
+			"sections",
+			"Section",
+			"sections",
+			"courses",
+			"Course",
+			"Subject",
+			"subjects",
+			"myList"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "my-website.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"03_04",
+				"Ch03/03_04/start/timers.js"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"subject",
+				"server/api/subjects/subjects.controller.js"
+			],
+			[
+				"main.conto",
+				"client/app/main/main.controller.js"
+			],
+			[
+				"main.con",
+				"client/app/main/main.controller.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 438.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/Personal Website/jinalex.github.io/my-website.sublime-project"
+			],
+			[
+				"po",
+				"~/Development/Learning/PollingApp.sublime-project"
+			]
+		],
+		"width": 333.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
