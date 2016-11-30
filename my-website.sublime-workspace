@@ -375,6 +375,43 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2016-09-10-The-Reasoning-Behind-the-10x-Principle.md",
+			"settings":
+			{
+				"buffer_size": 6122,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2754,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_svg-icons.scss",
+			"settings":
+			{
+				"buffer_size": 55250,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{% if site.footer-links.dribbble %}<a href=\"https://dribbble.com/{{ site.footer-links.dribbble }}\"><i class=\"svg-icon dribbble\"></i></a>{% endif %}\n{% if site.footer-links.email %}<a href=\"mailto:{{ site.footer-links.email }}\"><i class=\"svg-icon email\"></i></a>{% endif %}\n{% if site.footer-links.facebook %}<a href=\"https://www.facebook.com/{{ site.footer-links.facebook }}\"><i class=\"svg-icon facebook\"></i></a>{% endif %}\n{% if site.footer-links.flickr %}<a href=\"https://www.flickr.com/{{ site.footer-links.flickr }}\"><i class=\"svg-icon flickr\"></i></a>{% endif %}\n{% if site.footer-links.github %}<a href=\"https://github.com/{{ site.footer-links.github }}\"><i class=\"svg-icon github\"></i></a>{% endif %}\n{% if site.footer-links.instagram %}<a href=\"https://instagram.com/{{ site.footer-links.instagram }}\"><i class=\"svg-icon instagram\"></i></a>{% endif %}\n{% if site.footer-links.linkedin %}<a href=\"https://www.linkedin.com/in/{{ site.footer-links.linkedin }}\"><i class=\"svg-icon linkedin\"></i></a>{% endif %}\n{% if site.footer-links.pinterest %}<a href=\"https://www.pinterest.com/{{ site.footer-links.pinterest }}\"><i class=\"svg-icon pinterest\"></i></a>{% endif %}\n{% if site.footer-links.rss %}<a href=\"{{ site.baseurl }}/feed.xml\"><i class=\"svg-icon rss\"></i></a>{% endif %}\n{% if site.footer-links.twitter %}<a href=\"https://www.twitter.com/{{ site.footer-links.twitter }}\"><i class=\"svg-icon twitter\"></i></a>{% endif %}\n{% if site.footer-links.medium %}<a href=\"https://www.medium.com/{{ site.footer-links.medium }}\"><i class=\"svg-icon medium\"></i></a>{% endif %}\n{% if site.footer-links.stackoverflow %}<a href=\"http://stackoverflow.com/{{ site.footer-links.stackoverflow }}\"><i class=\"svg-icon stackoverflow\"></i></a>{% endif %}\n{% if site.footer-links.youtube %}<a href=\"https://youtube.com/{{ site.footer-links.youtube }}\"><i class=\"svg-icon youtube\"></i></a>{% endif %}\n{% if site.footer-links.googleplus %}<a href=\"https://plus.google.com/{{ site.footer-links.googleplus }}\"><i class=\"svg-icon googleplus\"></i></a>{% endif %}",
+			"file": "_includes/svg-icons.html",
+			"file_size": 1899,
+			"file_write_time": 131058988824945320,
+			"settings":
+			{
+				"buffer_size": 2043,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -549,7 +586,10 @@
 	},
 	"expanded_folders":
 	[
-		"/home/jinalex/Development/Personal Website/jinalex.github.io"
+		"/home/jinalex/Development/Personal Website/jinalex.github.io",
+		"/home/jinalex/Development/Personal Website/jinalex.github.io/_posts",
+		"/home/jinalex/Development/Personal Website/jinalex.github.io/_sass",
+		"/home/jinalex/Development/Personal Website/jinalex.github.io/_site"
 	],
 	"file_history":
 	[
@@ -684,7 +724,7 @@
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -699,6 +739,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"medium",
+			"twitter",
+			"svg-icon twitter",
+			"facebook",
 			"update",
 			"/images",
 			"images",
@@ -822,11 +866,7 @@
 			"Sections",
 			"Subjects",
 			"Textbooks",
-			"Subject",
-			"things",
-			"Subject",
-			"subjects",
-			"things"
+			"Subject"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -866,8 +906,123 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2016-09-10-The-Reasoning-Behind-the-10x-Principle.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5222,
+								5222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1872.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_sass/_svg-icons.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23147,
+								23147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 1260.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/svg-icons.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -954,7 +1109,7 @@
 		[
 			[
 				"",
-				"~/Development/Personal Website/jinalex.github.io/my-website.sublime-project"
+				"~/Development/Learning/your-first-pwapp-master/my-first-pwa.sublime-project"
 			],
 			[
 				"po",
