@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice">Thanks for the call. Alex is currently on exchange in the Netherlands based in the city of Rotterdam.</Say>
+    <Say voice="alice">Thanks for the call. Alex's phone service is not yet active.</Say>
     <Pause length="1"/>
-    <Say voice="alice">At this time you may reach him at his Dutch number.</Say>
-    <Pause length="1"/>
-    <Say voice="alice">Country code + 3 1. 6 2 2. 8 8 4. 3 2 2.</Say>
-    <Pause length="1"/>
-    <Say voice="alice">Alternatively you may email him at. j i n dot alex at queens u dot C A.</Say>
+    <Say voice="alice">At this time you may reach him at his email j i n dot alex at queens u dot C A.</Say>
     <Pause length="1"/>
     <Say voice="alice">Goodbye for now.</Say>
 </Response>
