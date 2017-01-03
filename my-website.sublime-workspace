@@ -405,19 +405,21 @@
 			}
 		},
 		{
-			"file": "_posts/2016-07-08-Changing-the-Reference-Point.md",
+			"contents": "---\nlayout: page\ntitle: About\npermalink: /about/\n---\n\nHi, I'm Alex. I grew up in Mississauga, Canada and now I spend my time learning about programming, startups, and business.\n\n## FAQs\n\n### Where's Alex?\nMississauga\n\n### What does Alex do?\nRight now Alex is back home for the holidays.\n\n### How can I contact Alex?\n<a href=\"mailto:jinalex.123@gmail.com\" target=\"_blank\">Send him mail</a>\n<br>\n<a href=\"http://doodle.com/alexjin\" target=\"_blank\">Schedule a call</a>\n\n### What can I do here?\nHumour Alex and read some of his posts. Alex sometimes has a hard time completing things he started but you can help by clicking the button below.\n\n<div class=\"button\"><a href=\"https://goo.gl/2nMV3t\">Tell Alex to finish {{site.project-verb}} {{site.current-project}}</a></div>\n\n<!--http://127.0.0.1:4000/about/#nudge-->\n\n<div id=\"nudge\" class=\"modalOverlay\">\n  <div class=\"dialog\">\n    <a href=\"#close\" title=\"Close\" class=\"close\">X</a>\n    <h2>Thanks for Motivating Alex</h2>\n        <p>Alex got a notification that someone on his website wants him to be productive and finish what he started.</p>\n</div>",
+			"file": "about.md",
+			"file_size": 1240,
+			"file_write_time": 131256128269332859,
 			"settings":
 			{
-				"buffer_size": 2454,
-				"encoding": "UTF-8",
+				"buffer_size": 1096,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "about.md",
+			"file": "voice-message.xml",
 			"settings":
 			{
-				"buffer_size": 1240,
+				"buffer_size": 355,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -604,7 +606,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 418.0
+		"width": 498.0
 	},
 	"console":
 	{
@@ -626,10 +628,13 @@
 	"expanded_folders":
 	[
 		"/home/jinalex/Development/Personal Website/jinalex.github.io",
-		"/home/jinalex/Development/Personal Website/jinalex.github.io/_site"
+		"/home/jinalex/Development/Personal Website/jinalex.github.io/_posts",
+		"/home/jinalex/Development/Personal Website/jinalex.github.io/_site",
+		"/home/jinalex/Development/Personal Website/jinalex.github.io/_site/about"
 	],
 	"file_history":
 	[
+		"/home/jinalex/Development/Spaces/spaces-mvo",
 		"/home/jinalex/Development/Learning/pwa-weather/step-02/index.html",
 		"/home/jinalex/Development/Personal Website/jinalex.github.io/LICENSE.txt",
 		"/home/jinalex/Development/Learning/CISC124/ExamPractice/Book.java",
@@ -756,8 +761,7 @@
 		"/home/jinalex/Development/Project-Euler/euler24.py",
 		"/home/jinalex/Development/jinalex.github.io/synesthesia.html",
 		"/home/jinalex/.cache/.fr-5KBedg/configurable/configurable.html",
-		"/home/jinalex/Development/jinalex.github.io/jquery.colorPicker.min.js",
-		"/home/jinalex/Development/Learning/permutateRepeat"
+		"/home/jinalex/Development/jinalex.github.io/jquery.colorPicker.min.js"
 	],
 	"find":
 	{
@@ -1037,19 +1041,19 @@
 				},
 				{
 					"buffer": 3,
-					"file": "_posts/2016-07-08-Changing-the-Reference-Point.md",
-					"semi_transient": true,
+					"file": "about.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2454,
+						"buffer_size": 1096,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1004,
+								1004
 							]
 						],
 						"settings":
@@ -1057,7 +1061,7 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 288.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1065,27 +1069,27 @@
 				},
 				{
 					"buffer": 4,
-					"file": "about.md",
+					"file": "voice-message.xml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1240,
+						"buffer_size": 355,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								326,
-								326
+								155,
+								155
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/XML/XML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 432.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1265,7 +1269,7 @@
 		[
 			[
 				"",
-				"~/.config/sublime-text-3/Packages/Sublime Tutor/tutorial/sublimetutor.sublime-project"
+				"~/Development/Learning/pwa-from-scratch-master/work/pwa-polymer-codelab.sublime-project"
 			],
 			[
 				"po",
