@@ -385,6 +385,24 @@
 			}
 		},
 		{
+			"file": "_posts/2016-07-08-Changing-the-Reference-Point.md",
+			"settings":
+			{
+				"buffer_size": 2454,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2016-12-20-Hack-Your-Phone-Plan.md",
+			"settings":
+			{
+				"buffer_size": 862,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"contents": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Alex Jin – Business and Computing | Queen's University</title>\n\n        <meta charset=\"utf-8\" />\n    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>\n    <meta http-equiv='X-UA-Compatible' content='IE=edge'>\n    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>\n\n    \n    <meta name=\"description\" content=\"Business and Computing | Queen's University\">\n    <meta property=\"og:description\" content=\"Business and Computing | Queen's University\" />\n    \n    <meta name=\"author\" content=\"Alex Jin\" />\n\n    \n\n    <!--[if lt IE 9]>\n      <script src=\"http://html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n    <![endif]-->\n    \n    <link rel=\"shortcut icon\" type=\"image/png\" href=\"images/favicon.png\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"/style.css\" />\n    <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Alex Jin - Business and Computing | Queen's University\" href=\"/feed.xml\" />\n\n    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->\n  </head>\n\n  <body>\n    <div class=\"wrapper-masthead\">\n      <div class=\"container\">\n        <header class=\"masthead clearfix\">\n          <a href=\"/\" class=\"site-avatar\"><img src=\"https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAgSAAAAJGIwNzJlMzg1LWEyYTMtNDNjMy05ZmZiLTdkMWI2NjAxOTA2Mw.jpg\" /></a>\n\n          <div class=\"site-info\">\n            <h1 class=\"site-name\"><a href=\"/\">Alex Jin</a></h1>\n            <p class=\"site-description\">Business and Computing | Queen's University</p>\n          </div>\n\n          <nav>\n            <a href=\"/\">Blog</a>\n            <a href=\"/categories\">Categories</a>\n            <!-- <a href=\"/resume.pdf\">Resume</a>  -->\n            <a href=\"/about\">About</a>\n          </nav>\n        </header>\n      </div>\n    </div>\n\n    <div id=\"main\" role=\"main\" class=\"container\">\n      <link rel=\"canonical\" href=\"https://jinalex.github.io/\" />\n<link rel=\"shortcut icon\" type=\"image/ico\" href=\"images/favicon.ico\">\n\n\n<div class=\"posts\">\n  \n    <article class=\"post\">\n\n      <h1><a href=\"/Innovated-in-China-A-Manufacturing-Country-in-a-New-Era/\"><strike>Made</strike> Innovated in China&#58; A Manufacturing Country in a New Era</a></h1>\n\n      <div class=\"entry\">\n        <p>Three years ago, Industry 4.0 (the fourth industrial revolution) has become a new and increasingly popular topic in Europe. This term originally coined in Germany describes the new wave of computerization in manufacturing with the onset of cloud computing and connected machines. Nowadays, the manufacturing world has not only adopted the Industry 4.0 mindset but we as citizens in our increasingly connected world have also witnessed the impact resulting from millions of smart devices being introduced to the physical world around us. With the reduction of manufacturing costs and new technology developed in the age of Industry 4.0, we now have smart phones, thermostats, cars, drones, and even smart devices strapped to our bodies thanks to this new manufacturing mindset.</p>\n\n\n      </div>\n\n      <a href=\"/Innovated-in-China-A-Manufacturing-Country-in-a-New-Era/\" class=\"read-more\">Read More</a>\n    </article>\n  \n    <article class=\"post\">\n\n      <h1><a href=\"/Changing-the-Reference-Point/\">Changing the Reference Point</a></h1>\n\n      <div class=\"entry\">\n        <p>For the first month of my time in Beijing I found myself constantly making comparisons to life in Canada. I did this in an effort to better understand my surroundings. Everything was subject to my mental juxtaposition. I divided quoted prices by five to find the Canadian dollar equivalent. I noted the similarities and differences between the apps on my coworker’s phones with the Western apps on my phone. I would contrast the governance, laws, and customs in China with those in Canada. I was learning a ton from studying my environment but I was missing an important perspective.</p>\n\n\n      </div>\n\n      <a href=\"/Changing-the-Reference-Point/\" class=\"read-more\">Read More</a>\n    </article>\n  \n</div>\n    </div>\n\n    <div class=\"wrapper-footer\">\n      <div class=\"container\">\n        <footer class=\"footer\">\n          \n<a href=\"mailto:jin.alex123@gmail.com\"><i class=\"svg-icon email\"></i></a>\n<a href=\"https://www.facebook.com/AlexJin\"><i class=\"svg-icon facebook\"></i></a>\n\n<a href=\"https://github.com/jinalex\"><i class=\"svg-icon github\"></i></a>\n<a href=\"https://instagram.com/alexjinalex\"><i class=\"svg-icon instagram\"></i></a>\n<a href=\"https://www.linkedin.com/in/jinalex\"><i class=\"svg-icon linkedin\"></i></a>\n\n<a href=\"/feed.xml\"><i class=\"svg-icon rss\"></i></a>\n\n\n\n\n        </footer>\n      </div>\n    </div>\n\n    \n\n  </body>\n</html>\n",
 			"file": "_site/index.html",
 			"file_size": 4708,
@@ -405,13 +423,14 @@
 			}
 		},
 		{
-			"contents": "---\nlayout: page\ntitle: About\npermalink: /about/\n---\n\nHi, I'm Alex. I grew up in Mississauga, Canada and now I spend my time learning about programming, startups, and business.\n\n## FAQs\n\n### Where's Alex?\nMississauga\n\n### What does Alex do?\nRight now Alex is back home for the holidays.\n\n### How can I contact Alex?\n<a href=\"mailto:jinalex.123@gmail.com\" target=\"_blank\">Send him mail</a>\n<br>\n<a href=\"http://doodle.com/alexjin\" target=\"_blank\">Schedule a call</a>\n\n### What can I do here?\nHumour Alex and read some of his posts. Alex sometimes has a hard time completing things he started but you can help by clicking the button below.\n\n<div class=\"button\"><a href=\"https://goo.gl/2nMV3t\">Tell Alex to finish {{site.project-verb}} {{site.current-project}}</a></div>\n\n<!--http://127.0.0.1:4000/about/#nudge-->\n\n<div id=\"nudge\" class=\"modalOverlay\">\n  <div class=\"dialog\">\n    <a href=\"#close\" title=\"Close\" class=\"close\">X</a>\n    <h2>Thanks for Motivating Alex</h2>\n        <p>Alex got a notification that someone on his website wants him to be productive and finish what he started.</p>\n</div>",
+			"contents": "---\nlayout: page\ntitle: About\npermalink: /about/\n---\n\nHi, I'm Alex. I grew up in Mississauga, Canada and now I spend my time learning about programming, startups, and business.\n\n## FAQs\n\n### Where's Alex?\nKingston\n\n### What is Alex doing?\nStudying at Queen's University.\n\n### How can I contact Alex?\n<a href=\"mailto:jinalex.123@gmail.com\" target=\"_blank\">Send him mail</a>\n<br>\n<a href=\"http://doodle.com/alexjin\" target=\"_blank\">Schedule a call</a>\n\n### What can I do here?\nHumour Alex and read some of his posts.\n\n<!-- Alex sometimes has a hard time completing things he started but you can help by clicking the button below.\n\n<div class=\"button\"><a href=\"https://goo.gl/2nMV3t\">Tell Alex to finish {{site.project-verb}} {{site.current-project}}</a></div> -->\n\n<!--http://127.0.0.1:4000/about/#nudge-->\n\n<div id=\"nudge\" class=\"modalOverlay\">\n  <div class=\"dialog\">\n    <a href=\"#close\" title=\"Close\" class=\"close\">X</a>\n    <h2>Thanks for Motivating Alex</h2>\n        <p>Alex got a notification that someone on his website wants him to be productive and finish what he started.</p>\n</div>",
 			"file": "about.md",
-			"file_size": 1240,
-			"file_write_time": 131256128269332859,
+			"file_size": 1106,
+			"file_write_time": 131278831976453382,
 			"settings":
 			{
-				"buffer_size": 1096,
+				"buffer_size": 1090,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -765,7 +784,7 @@
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 46.0
 	},
 	"find_in_files":
 	{
@@ -948,7 +967,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -973,14 +992,71 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1872.0,
+						"translation.y": 276.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "_posts/2016-07-08-Changing-the-Reference-Point.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2454,
+								2454
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2016-12-20-Hack-Your-Phone-Plan.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "_site/index.html",
 					"semi_transient": false,
 					"settings":
@@ -1006,11 +1082,11 @@
 						"translation.y": 211.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 4,
 					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
@@ -1022,8 +1098,8 @@
 						"selection":
 						[
 							[
-								1404,
-								1404
+								1559,
+								1559
 							]
 						],
 						"settings":
@@ -1033,27 +1109,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1272.0,
+						"translation.y": 935.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 5,
 					"file": "about.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1096,
+						"buffer_size": 1090,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1004,
-								1004
+								238,
+								238
 							]
 						],
 						"settings":
@@ -1061,14 +1137,14 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 288.0,
+						"translation.y": 420.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 6,
 					"file": "voice-message.xml",
 					"semi_transient": false,
 					"settings":
@@ -1092,11 +1168,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 7,
 					"file": "_site/sitemap.xml",
 					"semi_transient": false,
 					"settings":
@@ -1120,11 +1196,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 8,
 					"file": "_sass/_svg-icons.scss",
 					"semi_transient": false,
 					"settings":
@@ -1148,11 +1224,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 9,
 					"file": "_includes/svg-icons.html",
 					"semi_transient": false,
 					"settings":
@@ -1176,7 +1252,7 @@
 						"translation.y": 72.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
@@ -1295,7 +1371,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 203.0,
+	"side_bar_width": 534.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
