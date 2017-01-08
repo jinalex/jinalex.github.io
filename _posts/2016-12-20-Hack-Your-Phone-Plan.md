@@ -36,6 +36,7 @@ Admittedly I could have just stopped at Fongo and ported my number from Twilio t
 Unlimited Smartphone Plan from Wind
 $40 + Tax
 
+
 **After**
 High Speed 3GB Data Only Plan from Fido
 $15 + Tax
