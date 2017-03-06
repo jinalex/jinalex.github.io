@@ -15,7 +15,7 @@ Kingston
 Currently a full-time student at Queen's University
 
 ### How can I contact Alex?
-<a href="mailto:jinalex.123@gmail.com" target="_blank">Send mail</a>
+<a href="mailto:jin.alex123@gmail.com" target="_blank">Send mail</a>
 <br>
 <a href="http://doodle.com/alexjin" target="_blank">Schedule a call</a>
 
